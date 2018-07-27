@@ -1,0 +1,1 @@
+g++ Ghost.cpp PacBoard.cpp PacGame.cpp PacGame.cpp ../../AException.cpp ../../Data.cpp ../../AObject.cpp -std=c++17 -I ../../../include
